@@ -1,0 +1,57 @@
+.bg{
+    background-image: url("https://cdn.pixabay.com/photo/2018/08/14/13/23/ocean-3605547_1280.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: auto;
+}
+
+.navv{
+    color: aliceblue;
+    font-size: 30px;
+    font-family:monospace;
+    font-weight: bolder;
+}
+
+.transparent{
+    background-color: transparent;
+}
+
+.banner{
+    color: aliceblue;
+    text-align: center;
+
+}
+
+.image{
+    height: 30%;
+    width: 30%;
+    
+}
+
+.content{
+    margin-left: 300px;
+    
+}
+
+h2{
+    font-weight: bolder;
+    margin: 20px;
+    color: aliceblue;
+}
+
+p{
+    margin: 20px;
+}
+
+.contact_heading{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+
+.form-lenth{
+    width: 40%;
+}
